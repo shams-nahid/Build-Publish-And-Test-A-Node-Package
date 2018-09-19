@@ -1,0 +1,11 @@
+{
+  "name": "bmshamsnahid-magic-module",
+  "version": "0.0.1",
+  "description": "This is magic module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "B M Shams Nahid",
+  "license": "ISC"
+}
